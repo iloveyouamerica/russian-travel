@@ -1,0 +1,21 @@
+.menu{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 18px;
+}
+
+@media screen and (max-width: 520px) {
+  .menu {
+    flex-direction: column;
+    gap: 32px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .menu {
+    flex-direction: column;
+    gap: 32px;
+  }
+}

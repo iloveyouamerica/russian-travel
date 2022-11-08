@@ -1,0 +1,28 @@
+.lead__title {
+  max-width: 720px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  text-align: center;
+  color: #fff;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* Эксперимент */
+@media screen and (max-width: 767px) {
+  .lead__title {
+    font-size: calc(100vw * 0.125);
+    line-height: calc(100vw * 0.13);
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+  }
+}
