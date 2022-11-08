@@ -2,3 +2,8 @@
   text-decoration: none;
   color: #fff;
 }
+
+.header__lang-link:hover {
+  opacity: .8;
+  transition: opacity .3s ease;
+}
