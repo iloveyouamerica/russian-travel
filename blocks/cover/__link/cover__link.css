@@ -22,5 +22,4 @@
 
 .cover__link:hover .cover__overlay{
   opacity: .8;
-  transition: opacity .3s ease;
 }

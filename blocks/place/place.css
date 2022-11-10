@@ -25,9 +25,9 @@
   .place {
     grid-template-columns: minmax(auto, calc(50% - 3%)) minmax(auto, calc(50% + 3%));
     grid-template-rows: repeat(2, auto);
-    column-gap: 32px;
+    /*column-gap: 32px;
     row-gap: 48px;
-    margin-bottom: 80px;
+    margin-bottom: 80px;*/
   }
 }
 
@@ -44,8 +44,8 @@
   .place {
     grid-template-columns: auto;
     grid-template-rows: auto;
-    row-gap: 32px;
-    margin-bottom: 50px;
+    /*row-gap: 32px;
+    margin-bottom: 50px;*/
   }
 }
 

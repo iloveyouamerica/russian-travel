@@ -34,6 +34,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
+@import url(../blocks/intro/__list-item-accent/intro__list-item-accent.css);
 
 /* Photo-grid */
 @import url(../blocks/photo-grid/photo-grid.css);
@@ -45,7 +46,7 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__image/place__image.css);
-@import url(../blocks/place/place__website/place__website.css);
+@import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__url/place__url.css);
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
